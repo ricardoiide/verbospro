@@ -1,6 +1,6 @@
 # VerbosPro 🇪🇸
 
-[Acesse o app 🚀](https://ricardoiide.github.io/verbospro/) {:target="_blank"}
+[Acesse o app aqui!](https://ricardoiide.github.io/verbospro/)
 
 Aplicação web para prática de conjugação de verbos em espanhol...
 
