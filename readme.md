@@ -1,8 +1,6 @@
 # VerboPro 🇪🇸
 
-[![Abrir App](https://img.shields.io/badge/▶_Abrir_App-VERBOSPRO-blue?style=for-the-badge)](https://ricardoiide.github.io/verbospro/)
-
-[Acesse o app 🚀](https://ricardoiide.github.io/verbospro/){:target="_blank"}
+[Acesse o app 🚀](https://ricardoiide.github.io/verbospro/) {:target="_blank"}
 
 Aplicação web para prática de conjugação de verbos em espanhol...
 
