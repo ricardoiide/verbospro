@@ -1,8 +1,18 @@
 # VerboPro 🇪🇸
 
-Aplicação web para prática de conjugação de verbos em espanhol, voltada para falantes de português brasileiro. Funciona diretamente no navegador, sem instalação ou dependências externas.
+[![Abrir App](https://img.shields.io/badge/▶_Abrir_App-VERBOSPRO-blue?style=for-the-badge)](https://ricardoiide.github.io/verbospro/)
+
+[Acesse o app 🚀](https://ricardoiide.github.io/verbospro/){:target="_blank"}
+
+Aplicação web para prática de conjugação de verbos em espanhol...
 
 ## Como usar
+
+Aplicação web para prática de conjugação de verbos em espanhol, voltada para falantes de português brasileiro. Funciona diretamente no navegador, sem instalação ou dependências externas.
+
+- Clique no botão acima ou [aqui](https://ricardoiide.github.io/verbospro/)
+
+...
 
 1. Abra o arquivo `verbospro_espanhol.html` em qualquer navegador moderno.
 2. Selecione o **tempo verbal** desejado na barra de botões no topo.
